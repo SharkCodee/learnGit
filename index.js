@@ -24,7 +24,7 @@ var base = Base64;
     console.log(error);
 }
 document.cookie = "1235465465";
-alert(document.cookie);
+console.log("hello git");
 // alert(xp.getAttribute("value"));
 
 // alert(JSON.stringify(objec, null, 10));
