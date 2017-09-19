@@ -23,7 +23,7 @@ var base = Base64;
 } catch (error) {
     console.log(error);
 }
-document.cookie = "1235465465kjhasdkjahsdkjjas";
+document.cookie = "123";
 console.log("hello git");
 // alert(xp.getAttribute("value"));
 
