@@ -23,7 +23,7 @@ var base = Base64;
 } catch (error) {
     console.log(error);
 }
-document.cookie = "123";
+document.cookie = "1235465465";
 alert(document.cookie);
 // alert(xp.getAttribute("value"));
 
